@@ -6,7 +6,7 @@
 
 for i in u6bt u7bt u8bt u9bt
 do
-userdel -r ${i}
-echo "user {i} is successfully deleted"
+useradd -r ${i}
+echo "user {i} is successfully added"
 sleep 3
 done
