@@ -7,6 +7,6 @@
 for i in u6bt u7bt u8bt u9bt
 do
 useradd -r ${i}
-echo "user {i} is successfully added"
+echo "user $i is successfully added"
 sleep 3
 done
