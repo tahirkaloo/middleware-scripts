@@ -1,7 +1,5 @@
 #!/bin/bash
 
-#Author: Dominique
-#Date: March 7th 2022
 #Description: This script is clean up our servers of docker images and containers to start afresh
 
 echo -e "\nLet us start by clearing up the containers we have on the system so far...\n"
